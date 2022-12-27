@@ -1,0 +1,38 @@
+_repo: The-southern-literary-messenger-Vol-II-No-7-June-1836_69387
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_issued: '2022-11-19'
+identifiers:
+  gutenberg: '69387'
+language: en
+pgterms:marc904: https://archive.org/details/southernliterary02rich
+pgterms:marc905: 20201214083426various
+pgterms:marc906: '1836'
+pgterms:marc907: US
+production_note: Ron Swanson
+publication_note: 'United States: T. W. White, Publisher and Proprietor,1836.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- 19th century -- Periodicals'
+- !lcc 'AP'
+- GITenberg
+title: The southern literary messenger, Vol. II., No. 7, June, 1836
+url: http://www.gutenberg.org/ebooks/69387
