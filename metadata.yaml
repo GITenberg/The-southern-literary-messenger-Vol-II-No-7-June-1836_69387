@@ -1,5 +1,8 @@
 _repo: The-southern-literary-messenger-Vol-II-No-7-June-1836_69387
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Allan_Poe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69387#The-southern-literary-messenger-Vol-II-No-7-June-1836
 gutenberg_issued: '2022-11-19'
 identifiers:
   gutenberg: '69387'
